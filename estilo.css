@@ -61,14 +61,14 @@ header p {
     max-width: 500px;
     text-align: center;
     margin: auto;
-    box-shadow:  2px 0px rgba(0, 0, 0, 0.346);
+    box-shadow:  0px 0px rgba(0, 0, 0, 0.082);
     
 
 }
 nav {
 background-color: var(--cor4);
 padding-left: 10px;
-box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.555);
+box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.326);
 }
  nav > a {
     color:rgba(255, 255, 255, 0.459);
